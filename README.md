@@ -1,1 +1,1 @@
-# Audio-Watermarking-Project
+# Watermarking-Project
