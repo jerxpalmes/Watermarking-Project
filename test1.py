@@ -31,3 +31,4 @@ for img_path in images_path:
     cv2.imwrite("watermarked_images/watermarked_" + filename, img)
 
 print("Watermark added to all images")
+    # print("collab")
