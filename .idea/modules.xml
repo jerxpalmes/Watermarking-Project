@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Image_Watermarking.iml" filepath="$PROJECT_DIR$/.idea/Image_Watermarking.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Watermarking-Project.iml" filepath="$PROJECT_DIR$/.idea/Watermarking-Project.iml" />
+>>>>>>> 7eecb578ed3d1216adf7a1d424ad392b87202d19
     </modules>
   </component>
 </project>
