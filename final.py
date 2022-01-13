@@ -2,6 +2,7 @@ import cv2
 import numpy as np
 import glob
 import os
+import ctypes
 
 from numpy._distributor_init import filename
 
@@ -31,4 +32,5 @@ for img_path in images_path:
     cv2.imwrite("watermarked_images/watermarked_" + filename, img)
 
 print("Watermark added to all images")
-# print("collab")
+
+ctypes.windll.user32.MessageBoxW(0, "Watermark added to all images", "Message",1)
