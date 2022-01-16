@@ -3,7 +3,6 @@ import numpy as np
 import glob
 import os
 import ctypes
-
 from numpy._distributor_init import filename
 
 logo = cv2.imread("elite_logo.jpg") #loading logo image
