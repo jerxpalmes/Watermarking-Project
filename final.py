@@ -5,7 +5,7 @@ import os
 import ctypes
 from numpy._distributor_init import filename
 
-logo = cv2.imread("elite_logo.jpg") #loading logo image
+logo = cv2.imread("images.png") #loading logo image
 h_logo, w_logo, _ = logo.shape #getting height and width
 
 images_path = glob.glob("watermarking/*.*")
